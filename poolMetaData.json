@@ -1,12 +1,6 @@
 {
-"name": "Cardano ecosystem stake pool THUB",
-"description": "Half of the pool's earnings will be donated to CLUB CARDANO."
-"ticker" : "THUB",
+"name": "Cardano ecosystem stake pool THUB", 
+"description": "The pool owner will donate half of the proceeds to CLUB CARDANO",
+"ticker": "THUB",
 "homepage": "https://stake.love"
-}
-{
-"name": "MyPoolName", 
-"description": "My pool description",
-"ticker": "MPN",
-"homepage": "https://myadapoolnamerocks.com"
 }
